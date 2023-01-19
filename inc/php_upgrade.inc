@@ -441,7 +441,7 @@ PHPMU_ALPHAVER=$(echo "$phpver")
     #addmysql_legacy
 
     echo "*************************************************"
-    cecho "* Upgrading PHP" $boldgreen
+    cecho "* Changing PHP version" $boldgreen
     echo "*************************************************"
 
     # if you set /etc/centminmod/custom_config.inc file to
